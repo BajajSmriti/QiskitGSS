@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Custom
+lab0-smriti.ipynb
+
 # C extensions
 *.so
 
